@@ -51,3 +51,12 @@ This project explores various machine learning (ML) and graph-based approaches t
 Due to computational limitations, we were able to work with only a subset of the data (up to 1000 samples) due to the memory-intensive nature of graph models. As a result, our accuracy is lower. However, as the size of the graph increases, the model's performance is expected to improve.
 
 For any queries or improvements, feel free to reach out!
+
+
+## Contributors
+- [Bhumika Mandikel](https://github.com/BhumikaMandikel)
+- [Arnitha Sathish](https://github.com/arnitha-97)
+- [Athmica Kishore](https://github.com/Athmica)
+- [Animesh Nirna](https://github.com/maverick0304)
+
+
