@@ -1,4 +1,3 @@
-# ViralityGraphML
 # Virality Prediction using LLM Embeddings and Graph-Based Models
 
 ## Overview
